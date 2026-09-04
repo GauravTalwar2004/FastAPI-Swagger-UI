@@ -53,9 +53,4 @@ A RESTful API for managing tasks, built with FastAPI and SQLAlchemy.
 
 5. Visit `http://127.0.0.1:8000/docs` for interactive API documentation
 
-## Future Improvements
 
-- JWT-based user authentication
-- Per-user task ownership
-- Automated tests with pytest
-- Deployment to a cloud platform
